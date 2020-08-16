@@ -1,0 +1,41 @@
+
+/*
+* LoopLab A Social Template
+* Desingner: Abdul Hadi
+* Github: https://github.com/abdulhadicse
+* LinkedIn: https://www.linkedin.com/in/abdulhadicse/
+*
+*/
+
+
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  border-bottom: 3px solid #008ed6;
+  background: 292b2c;
+  opacity: .7; }
+
+#head_section {
+  background: url("../img/desk.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 600px;
+  overflow-x: hidden; }
+  #head_section .d_overlay {
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 600px;
+    overflow-x: hidden;
+    padding-top: 150px;
+    padding-bottom: 80px; }
+  #head_section .fa {
+    background: #fff;
+    padding: 4px;
+    font-size: 30px;
+    color: #008ed6;
+    border-radius: 2px; }
+
+/*# sourceMappingURL=style.css.map */
